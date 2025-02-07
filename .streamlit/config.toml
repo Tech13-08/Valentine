@@ -1,0 +1,8 @@
+# config.toml
+
+[theme]
+primaryColor = "#FF5A5F"  # Romantic pink-red color for main elements
+backgroundColor = "#F8B0C1"  # Soft, but more noticeable pink for the background
+secondaryBackgroundColor = "#FF8C8C"  # A gentle light red-pink for secondary areas
+textColor = "#333333"  # Dark gray for text to ensure readability
+font = "sans serif"
